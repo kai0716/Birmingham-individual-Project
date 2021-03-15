@@ -1,0 +1,33 @@
+Objective of the Week
+- Connect database
+- deploy relational database (UML to Code)
+- create project page for students
+- project page status
+
+What I did in this week
+Monday
+Fixing database problem (cannot store data and has some configuration bugs)
+
+Tuesday
+Fixing database problem (cannot store data and has some configuration bugs)
+
+Wednesday
+database base problem solved (able to store data and display table including relational data)
+Create login function
+set up user database
+
+Thursday
+Create login function and implement security
+
+Friday
+Create login function and implement security
+
+Achievements of the Week
+- Connect database
+- create login function
+- a small part of relational database
+
+Objective of Next Week
+- create project page for students and supervisor
+- project page status
+

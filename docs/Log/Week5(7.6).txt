@@ -1,0 +1,27 @@
+Objective of the Week
+- create project page for students and supervisor
+- project page status
+
+
+What I did in this week
+Monday - Thursday
+In my project, the supervisor can also be a secondmarker, which they could have 2 list of students,
+one list for supervised student and one list for second marked student. However, as the supervisor and the secondmarker is 
+the same person, and all the students will appear in both lists, which means the
+each student will be stored twice in the same database table. However, the student could not appear twice because their email must be unique 
+(email is used for login). I have spend four days trying to solve this problem, but still cannot find solution. I am considering to
+remove the second marker and continue other function first.
+
+Plan for this Weekend
+-Try to catch up and achieve the objectives of this week
+
+
+Achievements of the Week
+-none
+
+
+Objective of Next Week
+- continue create project page for students and supervisor 
+- continue project page status
+- Able to add plan
+

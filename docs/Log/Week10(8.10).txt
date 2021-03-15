@@ -1,0 +1,26 @@
+Objective of the Week
+-Search similar project.
+
+-After supervisor approve proposal other student can view your proposal
+
+
+Plan for this Weekend
+-Search similar project.
+
+-Discussion 
+
+Achievements of the Week
+-Add Plan function(weekly objective) with additional function
+
+-UI design
+
+-View Student plan
+
+ 
+
+Objective of Next Week
+-Testing
+
+-prepare for demo
+
+-completed discussion

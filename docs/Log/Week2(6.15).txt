@@ -1,0 +1,25 @@
+Objective of the Week
+-Continue and complete proposal
+-Look for similar application and relative work
+
+Achievements of the Week
+Monday
+-Look for similar application and relative work
+
+Tuesday
+-Continue proposal
+
+Wednesday
+-Completed proposal and gantt chart
+-Proofread
+
+Thursday
+-Polishing Proposal
+
+
+Objective of Next Week
+-Set up Spring boot and construct framework e.g. able to run Spring boot
+-Connect database
+-Construct relational database
+-set up database e.g. database for student, teacher, chat
+-Set role for different types of user

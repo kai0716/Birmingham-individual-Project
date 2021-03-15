@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Gantt_chart" company="" webLink="http://" view-date="2020-07-12" view-index="0" gantt-divider-location="573" resource-divider-location="300" version="2.8.5" locale="en_US">
+    <description/>
+    <view zooming-state="default:4" id="gantt-chart">
+        <field id="tpd3" name="Name" width="273" order="0"/>
+        <field id="tpd4" name="Begin date" width="148" order="1"/>
+        <field id="tpd5" name="End date" width="148" order="2"/>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="2" name="Set up spring project configuration" color="#8cb6ce" meeting="false" start="2020-06-23" duration="3" complete="0" expand="true">
+            <depend id="4" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="4" name="Construct relational database" color="#8cb6ce" meeting="false" start="2020-06-26" duration="2" complete="0" expand="true">
+            <depend id="12" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="12" name="Create new users" meeting="false" start="2020-06-30" duration="1" complete="0" expand="true"/>
+        <task id="53" name="Only see students and supervisor in same department" color="#8cb6ce" meeting="false" start="2020-07-01" duration="2" complete="0" expand="true">
+            <depend id="11" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="11" name="create project page for each users" color="#8cb6ce" meeting="false" start="2020-07-03" duration="1" complete="0" expand="true">
+            <depend id="13" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="13" name="project page (proposal)have status" color="#8cb6ce" meeting="false" start="2020-07-06" duration="2" complete="0" expand="true">
+            <depend id="25" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="25" name="supervisor accept or reject proposal" color="#8cb6ce" meeting="false" start="2020-07-08" duration="2" complete="0" expand="true">
+            <depend id="39" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="39" name="See other student’s project page after their proposal is accepted by" color="#8cb6ce" meeting="false" start="2020-07-10" duration="1" complete="0" expand="true"/>
+        <task id="14" name="Find simuliar project" color="#8cb6ce" meeting="false" start="2020-07-13" duration="2" complete="0" expand="true">
+            <depend id="17" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="17" name="Push simuliar project" color="#8cb6ce" meeting="false" start="2020-07-15" duration="2" complete="0" expand="true">
+            <depend id="42" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="42" name="Link to supervisor" color="#8cb6ce" meeting="false" start="2020-07-17" duration="2" complete="0" expand="true"/>
+        <task id="20" name="Chat / Discussion" color="#8cb6ce" meeting="false" start="2020-07-21" duration="6" complete="0" expand="true"/>
+        <task id="35" name="Weely progress section" color="#8cb6ce" meeting="false" start="2020-07-29" duration="2" complete="0" expand="true">
+            <depend id="38" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="38" name="Share useful resources" meeting="false" start="2020-07-31" duration="1" complete="0" expand="true"/>
+        <task id="54" name="Set/ modify future objectives" color="#8cb6ce" meeting="false" start="2020-08-03" duration="2" complete="0" expand="true"/>
+        <task id="57" name="Login page" color="#8cb6ce" meeting="false" start="2020-08-05" duration="1" complete="0" expand="true"/>
+        <task id="64" name="Front end design" color="#8cb6ce" meeting="false" start="2020-08-06" duration="5" complete="0" expand="true">
+            <depend id="83" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="83" name="Addtional feature or Fix bug or Improve code" color="#8cb6ce" meeting="false" start="2020-08-13" duration="2" complete="0" expand="true">
+            <depend id="79" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="79" name="Demonstration" color="#8cb6ce" meeting="true" start="2020-08-17" duration="0" complete="0" expand="true"/>
+        <task id="88" name="Dessertation" color="#8cb6ce" meeting="false" start="2020-08-21" duration="10" complete="0" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>

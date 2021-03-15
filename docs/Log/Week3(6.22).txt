@@ -1,0 +1,35 @@
+Objective of the Week
+-Set up Spring boot and construct framework e.g. able to run Spring boot
+-Connect database
+-Construct relational database (UML diagram)
+-set up database e.g. database for student, teacher, chat
+-Set role for different types of user
+
+What I did in this week
+Monday
+Non
+
+Tuesday
+Non
+
+Wednesday
+Non
+
+Thursday
+Set up Spring boot
+Set up connection to database (Still has bugs)
+Working on Relational Database
+
+Friday
+- Relational database draft complete
+
+Achievements of the Week
+- Relation database draft (UML diagram)
+-Set up Spring boot and construct framework (e.g dependencies, gradle build)
+
+Objective of Next Week
+- Connect database
+- deploy relational database (UML to Code)
+- create project page for students
+- project page status
+

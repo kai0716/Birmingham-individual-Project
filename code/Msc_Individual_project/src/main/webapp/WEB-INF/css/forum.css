@@ -1,0 +1,53 @@
+/*Reference https://www.bootdey.com/snippets/view/support-tickets*/
+.grid .grid-body {
+	padding: 15px 20px 15px 20px;
+	font-size: 0.9em;
+	line-height: 1.9em;
+}
+.grid {
+	position: relative;
+	width: 100%;
+	background: #fff;
+	color: #666666;
+	border-radius: 2px;
+	margin-bottom: 25px;
+	box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* SUPPORT TICKET */
+.support ul {
+    list-style: none;
+	padding: 0px;
+}
+
+.support ul li {
+	padding: 8px 10px;
+}
+
+.support ul li a {
+	color: #999;
+	display: block;
+}
+
+.support ul li a:hover {
+	color: #666;
+}
+
+.support ul li.active {
+	background: #0073b7;
+}
+
+.support ul li.active a {
+	color: #fff;
+}
+
+.support ul.support-label li {
+	padding: 2px 0px;
+}
+
+
+
+
+
+
+

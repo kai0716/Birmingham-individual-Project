@@ -1,0 +1,21 @@
+Objective of the Week
+- continue create project page for students and supervisor 
+- continue project page status
+- Able to add plan
+
+
+Plan for this Weekend
+-complete approve function
+-try to implement auto save function (won't lost work if the network crash)
+
+
+Achievements of the Week
+-Supervisor able to view their students
+-Students able to add proposal
+-Supervisor able to view the proposal of their students
+
+
+Objective of Next Week
+-Add Plan (weekly objective)
+-After supervisor approve proposal other student can view your proposal
+-Search similar project.

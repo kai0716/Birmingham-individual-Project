@@ -1,0 +1,19 @@
+Objective of the Week
+-Add Plan (weekly objective)
+-After supervisor approve proposal other student can view your proposal
+-Search similar project.
+
+
+Plan for this Weekend
+Complete Add Plan (weekly objective)
+After supervisor approve proposal other student can view your proposal
+
+Achievements of the Week
+-Designe and set up plan database
+-Logic of Add plan function
+
+
+
+Objective of Next Week
+-Search similar project.
+-Start Implement web socket (Chat)

@@ -1,0 +1,19 @@
+Objective of the Week
+-Add Plan (weekly objective)
+-After supervisor approve proposal other student can view your proposal
+-Search similar project.
+
+
+Plan for this Weekend
+-Add plan
+
+
+Achievements of the Week
+-Reconstructed the data structure, all proposal versions can be store and view.
+-Supervsiors can approve and and decline proposal(leave comment).
+-student can decide to submit or save proposal. Supervisor will not see the saved proposal.
+
+
+Objective of Next Week
+-After supervisor approve proposal other student can view your proposal
+-Search similar project.

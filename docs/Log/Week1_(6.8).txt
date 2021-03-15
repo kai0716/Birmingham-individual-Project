@@ -1,0 +1,30 @@
+Objective of the Week
+-Set up repository
+-Look for similar application and relative work
+-Research ways of building the application
+-Read up state of art application
+-Read up on development method scrum waterfall 
+-Decide testing method
+-Start to write proposal
+
+Achievements of the Week
+Monday
+-Repositiory is set up
+
+Tuesday-Thursday
+-Research ways of building the application / Read up state of art application
+	- Using Java
+	- Spring Framework (a java framework) with the MVC architecture.
+	- Spring is the most popular (state of art application) java application framework for web development.
+	- Considering implement Spring cloud if the workload allows.
+	- Mysql for database.
+	- JSP JavaScript and CSS for front end.
+
+-Read up on development method scrum waterfall
+	- Decide to use waterfull for the development because the waterfull is a linear sequential design approach
+	  which is suitable for individual development. Agile(scrum) works well for team project, so not suitable.
+	- Methodology tool - Gantt chart.
+
+-Decide testing method
+	- Implement unit test is very time consuming, if have enough time at the end, I would consider to do unit 
+          test. Otherwise, I will only do manual test.    
